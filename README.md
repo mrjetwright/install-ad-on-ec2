@@ -1,7 +1,7 @@
 # install-ad-on-ec2
 Install Active Directory on Amazon EC2 Windows Server
 
-## Link to YouTube video : [Install Active Directory on Amazon EC2 Windows Server]()
+## Link to YouTube video : [Install Active Directory on Amazon EC2 Windows Server](https://youtu.be/McsH61lgf-U)
 
 ## Agenda
 * Create VPC with two public and two private subnets.
